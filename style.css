@@ -1,0 +1,7 @@
+body#unityContainer{
+  height: 900px;
+}
+body{
+ margin: 0 auto; max-width: 1000px;
+ font-family: "游ゴシック", sans-serif;
+}
